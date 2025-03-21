@@ -1,0 +1,21 @@
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Java build output
+bin/
+target/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+
+# macOS
+.DS_Store
