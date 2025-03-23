@@ -3,6 +3,8 @@
 .classpath
 .settings/
 
+.class
+
 # Java build output
 bin/
 target/
