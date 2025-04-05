@@ -6,7 +6,7 @@ public class ArrayTest01 {
         // 배열의 길이 출력
         System.out.println("배열의 길이: " + numbers.length);
 
-        // 배열 요소 출력
+        // 배열 요소 출력...
         for (int i = 0; i < numbers.length; i++) {
             System.out.println("Element at index " + i + ": " + numbers[i]);
         }
