@@ -1,5 +1,4 @@
-public class MethodTest01 { 
-	
+public class MethodTest01 { 	
 	public static int sum(int n, int m) {
 		return n + m;
 	}
