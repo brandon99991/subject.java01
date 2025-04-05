@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ScannerTest01 {
     public static void main(String[] args) {
-        // Scanner 객체 생성
+        // Scanner 객체 생성..
         Scanner scanner = new Scanner(System.in);
 
         // 문자열 입력 받기
