@@ -12,7 +12,7 @@ public class MethodTest01 {
 
 		s = sum(i, 10);	// 메소드 호출
 		a = '?';
-		System.out.println(a);		 // 문자 '?' 출력
+		System.out.println(a);		 // 문자 '?' 출력..
 		System.out.println("Hello"); // "Hello" 문자열 출력
 		System.out.println(s);		 // 정수 s 값 30 출력
 	}
