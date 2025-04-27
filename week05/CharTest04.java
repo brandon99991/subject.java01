@@ -14,7 +14,7 @@ public class CharTest04 {
     	char ch3 = 'd';        
         System.out.println(Character.toUpperCase(ch3));
 
-        // ch4 변수의 값을 대문자로 변환        
+        // ch4 변수의 값을 소문자로 변환        
     	char ch4 = 'H';        
         System.out.println(Character.toLowerCase(ch4));
 
