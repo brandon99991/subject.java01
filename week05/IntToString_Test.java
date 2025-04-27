@@ -6,6 +6,8 @@ public class IntToString_Test {
         String str1 = String.valueOf(num);  // 정수를 문자열로
         String str2 = num + "";             // 간단한 방식
 
-        System.out.println(str1 + "입니다"); // 출력: 456입니다
+        System.out.println("str1변수 값은 ? " + str1); 
+        System.out.println("str2변수 값은 ? " + str2); 
+
     }
 }
