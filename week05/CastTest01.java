@@ -19,7 +19,7 @@ public class CastTest01 {
 		4) 논리형 (기본형 - Wrapper클래스)
 			boolean ↔ Boolean
 
-    	오토박싱(Auto-Boxing)은 기본형(primitive type)을 객체형(Wrapper Class)으로 자동 변환하는 것.   .. 	
+    	오토박싱(Auto-Boxing)은 기본형(primitive type)을 객체형(Wrapper Class)으로 자동 변환하는 것.  .. .. 	
     	*/
     	
     	// int형을 Integer형으로 오트박싱(자동 변환하는 것)
