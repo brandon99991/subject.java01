@@ -1,8 +1,23 @@
 class TV {
 	private int size;
-	protected int aaa=10;
-	public int bbb=20;
+	public String color = "default color";
+	public String company = "default compnay";	
 
-	public TV(int size) { this.size = size; }
-	protected int getSize() { return size; }
+	// 생성자
+	public TV(int size) {
+		this.size = size;
+	}
+	
+	protected int getSize() {
+		return size;
+	}
+	
+	protected String getColor() {
+		return color;
+	}
+	
+	protected String getCompany() {
+		return company;
+	}
+
 }

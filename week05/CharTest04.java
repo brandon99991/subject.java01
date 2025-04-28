@@ -1,10 +1,12 @@
 public class CharTest04 {
     public static void main(String[] args) {
 
+
+    	
         // ch1 변수의 값이 숫자형이면 true, 아니면 false 
     	char ch1 = 'a';
         System.out.println(Character.isDigit(ch1));    
-
+                
         // ch2 변수의 값이 문자형이면 true, 아니면 false
     	int a = 10;
         char ch2 = (char)a;        
