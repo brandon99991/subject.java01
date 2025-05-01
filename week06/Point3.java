@@ -11,7 +11,8 @@ class Point3 {
 		this.y = y;
 	}
 
-	// Object클래스의 equals()메소드를 오버라이딩
+	// Object클래스의 toString()메소드를 오버라이딩
+	@Override
 	public boolean equals(Object obj) {
 		Point3 p = (Point3) obj;
 		if (x == p.x && y == p.y)

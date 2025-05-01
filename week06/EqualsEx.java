@@ -8,7 +8,7 @@ public class EqualsEx {
 		Point3 a = new Point3(2, 3);
 		Point3 b = new Point3(2, 3);
 		Point3 c = new Point3(3, 4);
-		if (a == b) // false
+		if (a == b) // false  / a, b의 레퍼런스 비교
 			System.out.println("a==b");
 		if (a.equals(b)) // true
 			System.out.println("a is equal to b");
